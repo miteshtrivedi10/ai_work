@@ -12,7 +12,7 @@
 * Open your co-pilot and you'll be able to see the models as well as your MCP tools
 
 
-* As shown below, your VS-CODE co-pilot can now USE custom MCP Servers & act as personal assistant
+* As shown below, your VS-CODE co-pilot can now use custom MCP Servers & act as personal assistant
 
 <br>
 
