@@ -5,3 +5,8 @@
 * MCP Servers
 * Tools
 * Standalone agent use-cases
+
+
+List of modules
+----------------
+1. **Personal Assistant with MCP Server** Integrated in VS-CODE IDE
